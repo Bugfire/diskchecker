@@ -2,11 +2,11 @@
 
 ## Purpose
 
-I'd like to check my sdcard works fine.
+I want to check my sdcard works fine.
 
 ## Details
 
-Fill disk with random data, and check to read written data.
+Fill disk with random data, and read to check written data validity.
 
 ## Usage
 
